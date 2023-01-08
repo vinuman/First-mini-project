@@ -1,0 +1,62 @@
+h1{
+    font-size:40px;
+    font-family: "inter", Verdana;
+    text-decoration-line: underline;
+}
+
+p{
+    font-size:25px;
+    font-family: "inter", Verdana;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    
+}
+
+.intro{
+  overflow: auto;
+  border: 2px solid black;
+  padding:20px;
+  box-sizing: border-box;
+  left: 38px;
+  top: 47px;
+  
+}
+
+a{
+    padding-top: 30px;
+    color: black;
+    font-size:25px;
+    font-family: "inter", Verdana;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    text-decoration-line: underline;
+}
+
+.images{
+    overflow: auto;
+    padding: 20px;
+
+}
+
+.pic{
+    width: 1051px;
+height: 762px;
+left: 58px;
+top: 874px;
+}
+
+.end{
+    padding: 20px;
+}
+
+.list{
+    font-family: "inter", Verdana;
+    font-size:25px;
+    position:absolute;
+    left:0px;
+    letter-spacing: 0.5px;
+}
+
+.bb{
+  font-style: italic;
+}
